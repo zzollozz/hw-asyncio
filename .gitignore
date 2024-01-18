@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+/venv_hw_async/
+/asynio_dowload_img/
+/multiproc_dowload_img/
+/thread_dowload_img/
+__pycache__/
